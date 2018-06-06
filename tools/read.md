@@ -1,1 +1,1 @@
-https://www.python.org/downloads/release/python-360/
+https://www.python.org/getit/
