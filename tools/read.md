@@ -1,3 +1,1 @@
-python°²×°ÏÂÔØ
-
 https://www.python.org/downloads/release/python-360/
