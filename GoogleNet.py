@@ -1,3 +1,5 @@
+#机器学习第四组 基于 GoogLeNet 的图像处理 成员小组：郑志超，田亚雷，江志东，张昊阳，黄进
+
 # coding:UTF-8
 import tensorflow as tf
 from datetime import datetime
